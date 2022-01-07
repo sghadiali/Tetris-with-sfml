@@ -1,0 +1,8 @@
+Instructions:
+Key           Action
+A					Move Left
+S					Move Down
+D					Move Right
+Left Arrow	Rotate Counter Clockwise
+Right Arrow	Rotate Clockwise  
+R					Reset Game
